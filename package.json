@@ -1,6 +1,6 @@
 {
   "name": "poc-radix-tw",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "type": "module",
   "description": "Biblioteca de POC para testar Radix UI com Tailwind CSS",
   "main": "dist/my-react-library.umd.js",
