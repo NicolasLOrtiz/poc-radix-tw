@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# parserOption.project ignores
+vitest.config.ts
+setupTests.ts
+.storybook
